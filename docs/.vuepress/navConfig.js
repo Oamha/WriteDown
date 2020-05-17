@@ -3,8 +3,9 @@ module.exports = [
     { text: '主页', link: '/' },
     { text: '日常问题', link: '/problem/' },
     { text: '技术学习', link: '/technology/' },
-    { text: '理论基础', link: '/theory/'},
-    { text: '项目实战', link: '/practice/'},
+    { text: '理论基础', link: '/theory/' },
+    { text: '项目实战', link: '/practice/' },
+    { text: '日常总结', link: '/conclusion/' },
     {
         text: '常用工具',
         items: [

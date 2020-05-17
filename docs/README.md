@@ -2,12 +2,12 @@
 home: true
 heroImage: /img/hero.jpg
 heroText: Oamha
-tagline: 一个默默追求技术的小码农
+tagline: 吾生也有涯，而知也无涯
 actionText: 去鄙视他
-actionLink: /guide/
+actionLink: /profile/
 features:
 - title: 拒绝API
-  details: 程序员生于记API，死于记太多API。
+  details: 生亦API，死亦API。
 - title: 拒绝重复
   details: 重构、重构、重构，重要的事情说三遍。
 - title: 拒绝拿来主义

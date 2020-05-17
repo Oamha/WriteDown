@@ -1,5 +1,5 @@
 # blog
 
 #### 介绍
-personal technology blog based on vuepress
+Personal technology blog based on VuePress
 
