@@ -1,2 +1,0 @@
-# WriteDown
-Personal note
