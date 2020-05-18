@@ -9,5 +9,8 @@ module.exports = {
         activeHeaderLinks: true, //页面滚动 侧边栏活跃状态改变
         displayAllHeaders: false, //显示所有界面标题链接
         nav: require('./navConfig'),
+    },
+    markdown: {
+        extractHeaders: ['h2', 'h3', 'h4']
     }
 }

@@ -19,13 +19,5 @@ module.exports = [
             { text: '图片素材', link: 'https://pixabay.com/', target: '_blank' },
             { text: '字体图标', link: 'https://www.iconfont.cn/', target: '_blank' },
         ]
-    },
-    {
-        text: '语言',
-        ariaLabel: '语言',
-        items: [
-            { text: '中文', link: '/language/chinese/' },
-            { text: '英文', link: '/language/english/' }
-        ]
     }
 ]
