@@ -7,6 +7,14 @@ module.exports = [
     { text: '项目实战', link: '/practice/' },
     { text: '日常总结', link: '/conclusion/' },
     {
+        text: "常用文档",
+        items: [
+            { text: '安卓官网', link: 'https://developer.android.google.cn/jetpack', target: '_blank' },
+            { text: 'flutter', link: 'https://flutter.dev/docs/get-started/editor?tab=vscode', target: '_blank' },
+            { text: 'VueJS', link: 'https://cn.vuejs.org/', target: '_blank' }
+        ]
+    },
+    {
         text: '常用工具',
         items: [
             { text: 'JSON解析', link: 'https://www.json.cn/', target: '_blank' },

@@ -76,15 +76,19 @@ export default {
     computedWidth() {
       if (Object.prototype.toString.call(this.urls) === "[object Array]") {
         return (
-          Math.floor(((1 - this.gutter / 800) / this.urls.length) * 100) + "%"
+          Math.floor(
+            ((1 - (this.gutter * (this.urls.length - 1)) / 800) /
+              this.urls.length) *
+              100
+          ) + "%"
         );
       }
       return this.width;
     },
     imageList() {
       return this.imageUrls.map(item => ({
-        src: `http://localhost:8080/blog${this.prefix}/${item}`,
-        msrc: ''
+        src: `http://129.211.90.161:80/${this.prefix}/${item}`,
+        msrc: ""
       }));
     }
   },

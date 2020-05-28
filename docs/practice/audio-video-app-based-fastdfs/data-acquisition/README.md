@@ -16,7 +16,7 @@
 |异步网络请求|request-promise |
 |CSV文件读写 |csv-writer      |
 ## 3 歌曲的接口
-<Common-Thumb :prefix="'/img/practice/audio-video-app-based-fastdfs'" :urls="'QQ截图20200518134646.jpg'"/>
+<Common-Thumb :prefix="'/img/practice/audio-video-app-based-fastdfs'" :urls="'QQ20200518134646.jpg'"/>
 这是个Post请求，有三个参数，只要动态替换第一个copyrightId参数即可。第一个参数在咪咕下载页面选择音乐品质的复选框上就能看到，只需解析一下网页即可。
 
 ## 4 这里给出一个递归下载音乐文件的例子：
@@ -87,7 +87,7 @@ async function recursiveDownload(index) {
 ## 5 确立的数据库模型 
 <Common-Thumb :prefix="'/img/practice/audio-video-app-based-fastdfs'" :urls="'schema.png'"/>
 ## 6 爬取的数据
-<Common-Thumb :prefix="'/img/practice/audio-video-app-based-fastdfs'" :urls="['QQ截图20200518152618.jpg', 'QQ截图20200518152723.jpg']"/>
+<Common-Thumb :prefix="'/img/practice/audio-video-app-based-fastdfs'" :urls="['QQ20200518152618.jpg', 'QQ20200518152723.jpg']"/>
 有学习、测试需求的同学可以联系QQ:<font color="blue">1123988589</font>，无偿提供。
 
 ## 7 总结
