@@ -14,3 +14,6 @@ features:
   details: 一味地享有只会让自己失去奉献的能力
 footer:  Copyright © 2020 | Created by Oamha
 ---
+::: warning
+个人网站正在搬迁，目前只有简历、日常总结、项目实战可看，为你带来不便，请见谅!
+:::

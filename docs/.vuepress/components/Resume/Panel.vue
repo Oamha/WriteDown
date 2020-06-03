@@ -137,7 +137,7 @@ export default {
     .tip{
       color: #ff8811;
       font-size: 12px;
-      margin-left: 30px;
+      margin-left: 36px;
     }
   }
   min-width: 700px;
