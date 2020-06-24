@@ -13,4 +13,5 @@
 #### [事件拦截](./android/event-interceptor-in-android-2020-5-31.md)
 #### [View的位置参数](./android/location-parameter-in-android-2020-6-6.md)
 #### [系统栏的控制](./android/controls-of-system-bars-2020-6-6.md)
+#### [浅尝贝塞尔曲线](./android/try-of-bezier-2020-6-24.md)
 <!-- #### [差值器和估值器](./android/interpolator-and-evaluator-2020-5-28.md) -->
