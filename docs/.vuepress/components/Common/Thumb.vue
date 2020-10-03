@@ -3,7 +3,7 @@
     <img
       class="image"
       v-for="(item,index) in imageUrls"
-      :src="prefix + '/' + item"
+      :src="$withBase(`${prefix}/${item}`)"
       :width="computedWidth"
       :height="height"
       @click="show(index)"
