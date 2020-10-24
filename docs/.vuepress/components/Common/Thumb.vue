@@ -3,7 +3,7 @@
     <img
       class="image"
       v-for="(item,index) in imageUrls"
-      :src="prefix + '/' + item"
+      :src="$withBase(`${prefix}/${item}`)"
       :width="computedWidth"
       :height="height"
       @click="show(index)"
@@ -87,7 +87,7 @@ export default {
     },
     imageList() {
       return this.imageUrls.map(item => ({
-        src: `http://129.211.90.161:80/${this.prefix}/${item}`,
+        src: `http://129.211.90.161:80/blog/${this.prefix}/${item}`,
         msrc: ""
       }));
     }

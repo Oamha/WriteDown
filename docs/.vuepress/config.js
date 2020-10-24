@@ -1,7 +1,11 @@
 module.exports = {
     title: "Oamha's blog",
     description: '个人技术博客',
+<<<<<<< HEAD
     base: '/blog',
+=======
+    base: '/blog/',
+>>>>>>> 10ff25adca951c40db4c42005f0ea735ba0c1c38
     themeConfig: {
         lastUpdated: '最近更新',
         logo: '/img/logo.jpg',
