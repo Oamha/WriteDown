@@ -2,6 +2,9 @@
 ### Java
 #### [Java的异常体系](./java/java-exception-architecture-2020-5-23.md)
 #### [Java的集合类](./java/java-collection-2020-5-26.md)
+#### [生产者消费者](./java/java-producer-and-consumer-2020-8-19.md)
+#### [Annotation的使用](./java/java-annotation-usage-2020-8-21.md)
+
 ### Android
 #### [Android版本变革](./android/modification-of-different-version-2020-5-29.md)
 #### [Android中的单位](./android/unit-in-android-2020-5-23.md)

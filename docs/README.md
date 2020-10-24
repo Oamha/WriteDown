@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/hero.jpg
+heroImage: img/hero.jpg
 heroText: Oamha
 tagline: 吾生也有涯，而知也无涯
 actionText: 去鄙视他
