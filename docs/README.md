@@ -2,7 +2,7 @@
 home: true
 heroImage: img/hero.jpg
 heroText: Oamha
-tagline: 吾生也有涯，而知也无涯
+tagline: 二十多岁的年纪，对这个世界充满疑惑
 actionText: 去鄙视他
 actionLink: /profile/
 features:
@@ -15,5 +15,5 @@ features:
 footer:  Copyright © 2020 | Created by Oamha
 ---
 ::: warning
-个人网站正在搬迁，目前只有简历、日常总结、项目实战可看，为你带来不便，请见谅!
+个人网站正在搬迁，内容还比较少，我会加倍努力的！
 :::
