@@ -2,12 +2,12 @@
 home: true
 heroImage: img/hero.jpg
 heroText: Oamha
-tagline: 吾生也有涯，而知也无涯
-actionText: 去鄙视他
+tagline: 二十多岁的年纪，对这个世界充满疑惑
+actionText: 去鄙视他 👇👇👇
 actionLink: /profile/
 features:
-- title: 拒绝API
-  details: 不做API工程师
+- title: 拒绝简单调用
+  details: 不做接口工程师
 - title: 拒绝重复
   details: 重构、重构、重构，重要的事情说三遍
 - title: 拒绝拿来主义
