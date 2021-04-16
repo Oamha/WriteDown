@@ -1,0 +1,11 @@
+## 数据结构
+### [1、动态数组（Array）](./01-data-structure-array.md)
+### [2、栈（Stack）](./02-data-structure-stack.md)
+### [3、队列（Queue）](./03-data-structure-queue.md)
+### [4、链表（LinkedList）](./04-data-structure-link-list.md)
+### [5、二叉搜索树(Binary Search Tree)](./05-data-structure-binary-search-tree.md)
+### [6、集合(Set)](./06-data-structure-set.md)
+### [7、映射(Map)](./07-data-structure-map.md)
+### [8、堆(Heap)](./08-data-structure-heap.md)
+### [9、线段树(SegmentTree)](./09-data-structure-segment-tree.md)
+### [10、字典树(trie)](./10-data-structure-trie.md)

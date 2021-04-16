@@ -1,11 +1,11 @@
 // 导航栏配置
 module.exports = [
     { text: '主页', link: '/' },
-    { text: '日常问题', link: '/problem/' },
-    { text: '学习笔记', link: '/technology/' },
-    { text: '理论基础', link: '/theory/' },
-    { text: '案例分析', link: '/practice/' },
-    { text: '日常总结', link: '/conclusion/' },
+    { text: '文章总结', link: '/overview/' },
+/*     { text: '理论基础', link: '/theory/' },
+    { text: '技术专题', link: '/technology/' },
+    { text: '问题列表', link: '/problem/' },
+    { text: '实践', link: '/practice/' }, */
     {
         text: "常用文档",
         items: [

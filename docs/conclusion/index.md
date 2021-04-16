@@ -1,19 +1,3 @@
 ## 日常总结系列文章
-### Java
-#### [1、Java的异常体系](./java/java-exception-architecture-2020-5-23.md)
-#### [2、Java的集合类](./java/java-collection-2020-5-26.md)
-#### [3、生产者消费者](./java/java-producer-and-consumer-2020-8-19.md)
-#### [4、Annotation的使用](./java/java-annotation-usage-2020-8-21.md)
-#### [5、Java虚拟机](./java/java-virtual-machine-2020-10-3.md)
-### Android
-#### [1、Android版本变革](./android/modification-of-different-version-2020-5-29.md)
-#### [2、Android中的单位](./android/unit-in-android-2020-5-23.md)
-#### [3、Activity的启动模式](./android/launch-mode-of-activity-2020-5-25.md)
-#### [4、Android中常见的布局](./android/common-layout-in-android-2020-5-27.md)
-#### [5、Android中的动画](./android/animation-in-android-2020-5-27.md)
-#### [6、Activity生命周期的细节](./android/details-of-activity-lifecycle-2020-5-29.md)
-#### [7、事件拦截](./android/event-interceptor-in-android-2020-5-31.md)
-#### [8、系统栏的控制](./android/controls-of-system-bars-2020-6-6.md)
-#### [9、贝塞尔曲线](./android/try-of-bezier-2020-6-24.md)
-#### [10、intent-filter的过滤规则](./android/filter-rule-of-intent-filter-2020-10-26.md)
-<!-- #### [差值器和估值器](./android/interpolator-and-evaluator-2020-5-28.md) -->
+
+
