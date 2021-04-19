@@ -19,7 +19,7 @@
         <InfoItem :type="'联系方式'" :info="'15738155286'"></InfoItem>
         <InfoItem :type="'学历'" :info="'本科'"></InfoItem>
         <InfoItem :type="'邮箱'" :info="'1123988589@qq.com'"></InfoItem>
-        <InfoItem :type="'工作年限'" :info="'两年'"></InfoItem>
+        <InfoItem :type="'工作年限'" :info="'一年'"></InfoItem>
         <InfoItem :type="'现居住地'" :info="'广东省深圳市宝安区'"></InfoItem>
         <InfoItem :type="'出生年月'" :info="'1997年6月'"></InfoItem>
         <InfoItem
@@ -46,7 +46,7 @@
             Navigation, Room等组件的使用；
           </li>
           <li>了解开源框架Glide、RXJava、ButterKnife的实现原理；</li>
-          <li>了解NDK开发的基本流程，有C++基础；</li>
+          <li>了解NDK开发的基本流程，有一定的C++基础；</li>
         </ul>
       </div>
       <Divider :banner-name="'工作经验'" />
@@ -56,11 +56,11 @@
           <dd>于深圳市子舟科技控股有限公司担任Android开发工程师</dd>
           <dd>负责开发"车趣美"智能车载语音助手客户端</dd>
         </dl>
-        <dl>
+<!--         <dl>
           <dt>2019/01 ~ 2019/11</dt>
           <dd>于深圳市腾讯科技有限公司担任Android开发工程师</dd>
           <dd>负责开发手机QQ客户端</dd>
-        </dl>
+        </dl> -->
       </div>
       <Divider :banner-name="'项目经历'" />
       <div class="experience">
@@ -70,36 +70,34 @@
             "车趣美"智能车载语音助手是一款类似于智能音箱的车载应用。它运行在定制化的Android6.0平台上，依托于第三方的语音和音频资源服务，实现了声控点歌、手动切歌、后台音乐智能推荐等功能；
             <div class="difficulty-title">主要工作:</div>
             <ul class="difficulty">
-              <li>对接第三方语音识别服务，实现</li>
+              <li>对接第三方语音识别服务，实现语音交互；</li>
+              <li>解决产品电量消耗过大运行过热的问题；</li>
               <li>
                 实现车载播放器播放状态机的控制，优化播放出错后的异常处理及重试机制；
               </li>
               <li>
                 实现不同车机界面和"车趣美"界面播放状态保持一致(不同车机Android版本不同，蓝牙版本不同，要解决车机和产品的兼容性问题)；
               </li>
-              <li>解决产品电量消耗过大运行过热的问题；</li>
             </ul>
           </dd>
         </dl>
         <dl>
           <dt>2、鱼骨音乐</dt>
           <dd>
-            这是一个前后端项目，移动端基于Android的Jetpack工具包进行构建，采用MVVM的开发模式，实现了音视频播放，朋友圈、分享，收藏，点赞，多任务下载，短信登录等功能。管理后台采用Vue全家桶实现，主要功能有基于路由的权限管理，基于WebSSH的服务器远程终端登录，基于jwt的用户认证授权登录，以及各种资源管理等功能;
+            这是一款音视频娱乐的客户端，移动端基于Android的Jetpack工具包进行构建，采用MVVM的开发模式，实现了音视频播放、朋友圈、收藏，点赞，多任务下载，用户认证登录等功能。
             <div class="difficulty-title">主要工作:</div>
             <ul class="difficulty">
               <li>
                 自定义歌词展示View，实现歌词解析，歌词滚动，用户拖动等功能;
               </li>
-              <li>音乐播放过程中启动前台服务，显示自定义的通知栏;</li>
+              <li>音乐播放过程中启动前台服务，显示定制化的通知栏，提高应用的存活几率；</li>
               <li>
                 使用WebView进行混合开发，在原生APP中嵌入H5播放器，实现视频播放;
               </li>
               <li>
-                使用FastDFS搭建了小型的集群，提供云存储服务，满足本系统的音视频下载需求;
+                使用FastDFS搭建了小型的存储集群，提供云存储服务，提供音视频的下载服务；;
               </li>
-              <li>
-                使用抓包工具分析了梨视频、咪咕音乐的接口，利用爬虫爬取音乐、视频等网络数据;
-              </li>
+              <li><a href="/blog/practice/audio-video-app-based-fastdfs/">点我去看看</a></li>
             </ul>
           </dd>
         </dl>

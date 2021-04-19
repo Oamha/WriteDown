@@ -76,5 +76,4 @@ sidebar: 'auto'
 ### [2.1 数据抓取](./data-acquisition)
 ### [2.2 分布式文件系统的搭建](./build-fastdfs)
 ### [2.3 安卓APP的开发](./app-development)
-### [2.4 管理平台的搭建](./management-platform)
 

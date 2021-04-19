@@ -4,8 +4,8 @@ module.exports = [
     { text: '文章总结', link: '/overview/' },
 /*     { text: '理论基础', link: '/theory/' },
     { text: '技术专题', link: '/technology/' },
-    { text: '问题列表', link: '/problem/' },
-    { text: '实践', link: '/practice/' }, */
+    { text: '问题列表', link: '/problem/' },*/
+    { text: '实践', link: '/practice/' }, 
     {
         text: "常用文档",
         items: [
