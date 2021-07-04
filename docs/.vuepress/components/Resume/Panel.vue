@@ -67,7 +67,11 @@
         <dl>
           <dt>1、车趣美智能车载语音助手</dt>
           <dd>
-            "车趣美"智能车载语音助手是一款类似于智能音箱的车载应用。它运行在定制化的Android6.0平台上，依托于第三方的语音和音频资源服务，实现了声控点歌、手动切歌、后台音乐智能推荐等功能；
+            "车趣美"智能车载语音助手是一款类似于智能音箱的车载应用。它运行在定制化的Android6.0平台上，依托于第三方的语音和音频资源服务，实现了声控点歌、手动切歌、后台音乐智能推荐等功能;
+            <br/>
+            <br/>
+            <br/>
+            <br/>
             <div class="difficulty-title">主要工作:</div>
             <ul class="difficulty">
               <li>对接第三方语音识别服务，实现语音交互；</li>
@@ -95,9 +99,9 @@
                 使用WebView进行混合开发，在原生APP中嵌入H5播放器，实现视频播放;
               </li>
               <li>
-                使用FastDFS搭建了小型的存储集群，提供云存储服务，提供音视频的下载服务；;
+                使用FastDFS搭建了小型的存储集群，提供云存储服务，提供音视频的下载服务;
               </li>
-              <li><a href="/blog/practice/audio-video-app-based-fastdfs/">点我去看看</a></li>
+              <!-- <li><a href="/blog/practice/audio-video-app-based-fastdfs/">点我去看看</a></li> -->
             </ul>
           </dd>
         </dl>
@@ -159,7 +163,7 @@ export default {
   .skill,
   .work-experience,
   .experience {
-    width: 75%;
+    width: 84%;
     margin: 0 auto;
     .difficulty-title {
       margin-top: 4px;
